@@ -8,18 +8,18 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 15th, 11pm**
 
 ### Rose
-
+I enjoyed Michele reflecting upon our individual journal responses and how they connected to our daily discussion.
 
 ### Thorn
-
+I wish the group that uses the room next to us were better organized with their meetings, haha.
 
 ### Bud
-
+I am looking forward to potentially discussing the University plan regarding the Compact. 
 
 ---
 
 ## Research Application
-
+I am interested in learning how I can incorporate AI into my R processing, or perhaps I can branch out into Python.
 > [!IMPORTANT]
 > **Due Monday 13th, 11pm**
 
@@ -29,4 +29,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **No Cohort discussion due this week**
